@@ -1,0 +1,15 @@
+{
+  "name": "skyscannerscript",
+  "version": "0.0.1",
+  "description": "find cheap return flights from skyscanner.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fadie",
+  "license": "ISC",
+  "dependencies": {
+    "airports": "^1.0.0",
+    "osmosis": "^1.1.2"
+  }
+}
